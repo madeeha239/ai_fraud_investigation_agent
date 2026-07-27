@@ -813,7 +813,7 @@ with st.sidebar:
 
     st.divider()
     st.markdown(
-        "**About:** This is a demo of [Surelock Homes](https://github.com/oso95/Surelock-Homes), "
+        "**About:** This is a demo of [Surelock Homes](https://github.com/madeeha239/ai_fraud_investigation_agent), "
         "an open-source autonomous fraud investigation system for subsidized childcare."
     )
     st.markdown(
