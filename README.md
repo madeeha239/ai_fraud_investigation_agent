@@ -97,4 +97,4 @@ This demo covers **Cook County, Illinois only**. Property data is sourced from t
 | 60620 | Auburn Gresham |
 | 60624 | Garfield Park |
 
-The full [Surelock Homes](https://github.com/oso95/Surelock-Homes) system supports Minnesota and additional Illinois counties with a FastAPI backend, streaming dashboard, and offline mode.
+The full [Surelock Homes](https://github.com/madeeha239/ai_fraud_investigation_agent) system supports Minnesota and additional Illinois counties with a FastAPI backend, streaming dashboard, and offline mode.
